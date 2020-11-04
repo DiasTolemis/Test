@@ -5,6 +5,65 @@
 	<link rel="stylesheet" type="text/css" href="exampl.css">
 </head>
 <body>
+	<style>
+		body{
+  padding: 0;
+  margin: 0;
+}
+.dias{
+  height: 90px;
+  background-color: #002452;
+  position: relative;
+}
+.dias1{
+  position: relative;
+  top: 25px;
+  left: 150px;
+  font-size: 35px;
+  color: #38a7cb;
+}
+.dias2{
+  position: relative;
+  top: 25px;
+  left: 830px;
+  color: white;
+  word-spacing: 10px;
+}
+.dias2:hover{
+  color: #38a7cb;
+}
+.diast{
+  height: 630px;
+  background-color: #38a7cb;
+}
+.diast1{
+  position: relative;
+  top: 40px;
+  left: 280px;
+  margin-bottom: 90px;
+}
+.diast2{
+  font-size: 40px;
+  color: white;
+}
+.diast3{
+  color: white;
+  font-size: 20px;
+  word-spacing: 5px;
+}
+.diasto{
+  display: inline-block;
+  width: 100%;
+  margin-left: 275px;
+}
+.diasto1{
+  display: inline-block;
+  width: 35%; 
+  vertical-align: top;
+  font-size:20px;
+  margin-left: 150px;
+}
+	</style>
 		<div class="dias">
 			<span class="dias1">John Doe</span>
 			<span class="dias2">About  me </span>
