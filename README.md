@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="exampl.css">
 </head>
 <body>
-	<style>
+	<style type="text/css">
 		body{
   padding: 0;
   margin: 0;
